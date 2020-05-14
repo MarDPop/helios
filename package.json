@@ -1,0 +1,22 @@
+{
+  "name": "Helios",
+  "version": "0.0.1",
+  "description": "Web Solar System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Popescu",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.6",
+    "three": "^0.116.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
